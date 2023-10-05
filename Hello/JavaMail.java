@@ -22,7 +22,7 @@ public class JavaMail implements Serializable  {
 
         this.emailBody=emailContent;
         final String username = "amandavolgz@gmail.com";
-        final String password = "omlexfyumnpuqnmv";
+        final String password = "*********************";
 
         Properties prop = new Properties();
         prop.put("mail.smtp.host", "smtp.gmail.com");
